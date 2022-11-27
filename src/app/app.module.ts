@@ -22,7 +22,7 @@ const routes: Routes = [
   {path:'Servicios', component:ServiciosComponent},
   {path:'Testimonios', component:TestimoniosComponent},
   {path:'Contactanos', component:ContactanosComponent},
-  {path:'**',redirectTo:'/',pathMatch:'full'}
+  {path:'**',redirectTo:'Inicio',pathMatch:'full'}
 
 ]
 
