@@ -1,0 +1,15 @@
+.quienes{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+#carouselExampleInterval{
+    margin-left: 20px;
+}
+
+img{
+    height: 30rem;
+    width: 800px;
+}

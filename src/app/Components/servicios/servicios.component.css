@@ -1,0 +1,62 @@
+/* #contenedor{
+    margin: 10px 110px;
+
+}
+
+.im{
+	
+    height:190px;
+}
+
+.card:hover{
+    transform: scale(1.1);
+}
+
+
+.card {
+    overflow:hidden;
+}
+ 
+.title{
+    text-align: center;
+    left: 20px;
+} */
+
+.servicios{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.servicios img{
+    height: 150px;
+}
+h4{
+    text-align: center;
+}
+.card{
+    margin: 8px;
+}
+
+.cards{
+    margin:10px;
+    width: 200px;
+}
+
+
+h6{
+    text-align: center;
+    font-size: 20px;
+}
+
+.card:hover{
+    transform: scale(1.1);
+}
+
+
+.card {
+    overflow:hidden;
+}
+
+.cards:hover {filter: opacity(.5);}
